@@ -1,5 +1,5 @@
-Excercise code for <Think Python 2>. I wrote them as a Python beginner. Any comments are welcome.
+Excercise code for <Think Python 2>. I wrote them as a Python beginner. Please fell free to contact me if there are any mistakes. Thanks. :)
 
 -----------------------------------------------------------------
-《思考Python第二版》的练习代码，作为编程初学者，水平有限，请多指教。
+《思考Python第二版》的练习代码，如有错误，欢迎联系我，谢谢。
 
